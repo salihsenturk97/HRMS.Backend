@@ -1,0 +1,21 @@
+package kodlamaio.Hrms.business.concretes;
+
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+import kodlamaio.Hrms.business.abstracts.JobTitleService;
+import kodlamaio.Hrms.entities.concretes.JobTitle;
+
+@Service // SERVİS KATMANI OLDUĞUNU SÖYLÜYORUZ
+public class JobTitleManager implements JobTitleService{
+
+	@Override
+	public List<JobTitle> getAll() {
+		
+		
+	
+		return null;
+	}
+
+}

@@ -1,0 +1,7 @@
+package kodlamaio.Hrms.business.abstracts;
+
+public interface JobTitleService {
+	
+	List<JobTitle> getAll()
+
+}

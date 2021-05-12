@@ -1,0 +1,5 @@
+package kodlamaio.Hrms.business.concretes;
+
+public class JobTitleManager {
+
+}

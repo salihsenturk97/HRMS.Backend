@@ -1,0 +1,27 @@
+package kodlamaio.Hrms.api.controllers;
+import java.util.List;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import kodlamaio.Hrms.business.abstracts.JobTitleService;
+
+@RestController // TELEFON,TABLET, HEPSİNE UYGUN HALE GETİRİYOR / HER ORTAMA UYGUN HAL
+@RequestMapping("/api/jobtitle") //domainden sonraki yolu belirliyoruz
+
+public class JobTitleContollers {
+	
+	private JobTitleService jobTitleService;
+	@Autowired
+	public JobTitleContollers(JobTitleService jobTitleService) {
+		this.jobTitleService= jobTitleService;
+	}
+
+	public List<JobTitle> getAll(){
+		return jobTitleService.getAll();		
+		
+	}
+	
+	
+
+}

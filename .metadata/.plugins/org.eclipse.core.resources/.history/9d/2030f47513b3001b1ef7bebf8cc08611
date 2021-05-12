@@ -1,0 +1,8 @@
+package kodlamaio.Hrms.dataAccess.concretes;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface JobTitleDao extends JpaRepository<JobTitle, Integer>{
+
+		
+}

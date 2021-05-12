@@ -1,0 +1,7 @@
+package kodlamaio.Hrms.business.concretes;
+
+import kodlamaio.Hrms.business.abstracts.JobTitleService;
+
+public class JobTitleManager implements JobTitleService{
+
+}

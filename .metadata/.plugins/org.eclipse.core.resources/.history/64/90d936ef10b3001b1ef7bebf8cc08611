@@ -1,0 +1,11 @@
+package kodlamaio.Hrms.entities.concretes;
+
+import javax.persistence.Entity;
+
+@Entity
+@Table(name="job_titles")
+public class JobTitle {
+	
+	
+
+}
