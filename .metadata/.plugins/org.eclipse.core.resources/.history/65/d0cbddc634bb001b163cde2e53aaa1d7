@@ -1,0 +1,5 @@
+package kodlamaio.Hrms.core.utilities.results;
+
+public class ErrorResult {
+
+}

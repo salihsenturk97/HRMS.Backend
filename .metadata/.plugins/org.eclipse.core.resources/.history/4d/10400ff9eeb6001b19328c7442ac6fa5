@@ -1,0 +1,13 @@
+package kodlamaio.Hrms.dataAccess.abstracts;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.data.repository.NoRepositoryBean;
+
+import kodlamaio.Hrms.entities.concretes.JobTitle;
+@NoRepositoryBean
+public interface JobTitleDao extends JpaRepository<JobTitle, Integer>{
+	
+	// OLUŞTURMA SİLME GÜNCELLEME OLAYINI Jpa yapıyor, bu methodları Jpa sağlıyor
+
+		
+}

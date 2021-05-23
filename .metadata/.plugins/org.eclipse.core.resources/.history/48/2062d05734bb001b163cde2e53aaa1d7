@@ -1,0 +1,10 @@
+package kodlamaio.Hrms.core.utilities.resault;
+
+public class SuccessResult extends Result {
+
+	public SuccessResult() {
+		
+	}
+	
+
+}

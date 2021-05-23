@@ -1,8 +1,0 @@
-package kodlamaio.Hrms.api.controllers;
-
-import org.springframework.web.bind.annotation.RestController;
-
-@RestController // TELEFON,TABLET, HEPSİNE UYGUN HALE GETİRİYOR / HER ORTAMA UYGUN HAL
-public class JobTitleContollers {
-
-}

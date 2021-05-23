@@ -1,9 +1,0 @@
-package kodlamaio.Hrms.entities.concretes;
-
-public class Project {
-	
-	private String ad ;
-	private int a ;
-	
-
-}

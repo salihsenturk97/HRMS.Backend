@@ -1,0 +1,9 @@
+package kodlamaio.Hrms.core.utilities.resault;
+
+public class Result {
+	
+	private boolean succes ;
+	private String message ;
+	
+
+}

@@ -13,4 +13,8 @@
 			<item value="[name]"/>
 		</list>
 	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
 </section>

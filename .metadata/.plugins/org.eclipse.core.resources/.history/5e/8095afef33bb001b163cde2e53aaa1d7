@@ -1,0 +1,25 @@
+package kodlamaio.Hrms.core.utilities.resault;
+
+import com.sun.org.apache.bcel.internal.generic.RETURN;
+
+public class DataResult<T> extends Result{
+	
+	private T data ;
+	public DataResult(T data, boolean success, String message){
+		super(success,message);
+		
+	}
+	
+	public DataResult(T data, boolean success){
+		super(success);
+		this.data = data ;
+		
+	}
+	
+	public T getData(){
+		
+		return this.data;
+		
+	}
+
+}

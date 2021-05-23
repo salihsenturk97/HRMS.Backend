@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;kodlamaio.Hrms.core.utilities.resault&apos; to &apos;kodlamaio.Hrms.core.utilities.results&apos;&#x0D;&#x0A;- Original project: &apos;Hrms&apos;&#x0D;&#x0A;- Original element: &apos;Hrms/src/main/java/kodlamaio.Hrms.core.utilities.resault&apos;&#x0D;&#x0A;- Renamed element: &apos;Hrms/src/main/java/kodlamaio.Hrms.core.utilities.results&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;kodlamaio.Hrms.core.utilities.resault&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;kodlamaio.Hrms.core.utilities.resault" name="kodlamaio.Hrms.core.utilities.results" qualified="false" references="true" stamp="1621712068729" textual="false" version="1.0"/>
+</session>

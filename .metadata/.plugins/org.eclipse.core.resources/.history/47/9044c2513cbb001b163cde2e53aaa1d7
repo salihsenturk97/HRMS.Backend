@@ -1,0 +1,13 @@
+package kodlamaio.Hrms.business.abstracts;
+
+import java.util.List;
+
+import kodlamaio.Hrms.core.utilities.results.DataResult;
+import kodlamaio.Hrms.dataAccess.abstracts.JobTitleDao;
+import kodlamaio.Hrms.entities.concretes.JobTitle;
+
+public interface JobTitleService {
+	
+	//List<JobTitle> getAll() ;//JobTitle türünde tuttuk içindeki değerleri
+	DataResult<List<JobTitleDao>> getAll();
+}

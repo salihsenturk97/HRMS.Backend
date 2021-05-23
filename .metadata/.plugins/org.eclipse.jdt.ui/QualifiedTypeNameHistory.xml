@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
     <fullyQualifiedTypeName name="javax.persistence.Table"/>
     <fullyQualifiedTypeName name="javax.persistence.Id"/>
-    <fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
     <fullyQualifiedTypeName name="org.hibernate.annotations.CollectionId"/>
     <fullyQualifiedTypeName name="javax.persistence.Column"/>
-    <fullyQualifiedTypeName name="lombok.Data"/>
-    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
     <fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
     <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
-    <fullyQualifiedTypeName name="kodlamaio.Hrms.dataAccess.abstracts.JobTitleDao"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="kodlamaio.Hrms.business.abstracts.JobTitleService"/>
@@ -20,4 +15,22 @@
     <fullyQualifiedTypeName name="kodlamaio.Hrms.entities.concretes.JobTitle"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
     <fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+    <fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
+    <fullyQualifiedTypeName name="org.springframework.data.repository.NoRepositoryBean"/>
+    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="springfox.documentation.spring.web.plugins.Docket"/>
+    <fullyQualifiedTypeName name="springfox.documentation.spi.DocumentationType"/>
+    <fullyQualifiedTypeName name="springfox.documentation.builders.RequestHandlerSelectors"/>
+    <fullyQualifiedTypeName name="springfox.documentation.builders.PathSelectors"/>
+    <fullyQualifiedTypeName name="springfox.documentation.swagger2.annotations.EnableSwagger2"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="kodlamaio.Hrms.core.utilities.resault.DataResult"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.generic.RETURN"/>
+    <fullyQualifiedTypeName name="kodlamaio.Hrms.core.utilities.resault.Result"/>
+    <fullyQualifiedTypeName name="kodlamaio.Hrms.core.utilities.results.Result"/>
+    <fullyQualifiedTypeName name="kodlamaio.Hrms.core.utilities.results.DataResult"/>
+    <fullyQualifiedTypeName name="kodlamaio.Hrms.dataAccess.abstracts.JobTitleDao"/>
+    <fullyQualifiedTypeName name="kodlamaio.Hrms.core.utilities.results.SuccessDataResult"/>
 </qualifiedTypeNameHistroy>
